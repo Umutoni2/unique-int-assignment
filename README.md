@@ -39,9 +39,6 @@ node UniqueInt.js ../../sample_inputs
 All outputs are saved in `hw01/sample_output/`.
 
 ---
-Sure! You can add a simple **Author** section at the end of the README like this:
-
----
 
 ## Author
 
