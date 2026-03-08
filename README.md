@@ -46,8 +46,11 @@ Sure! You can add a simple **Author** section at the end of the README like this
 ## Author
 
 **Name:** Umutoni Rutaganira Sylvie
+
 **email:** s.umutonir@alustudent
+
 **Role:** Student / Developer
+
 **Project:** UniqueInt Assignment – Sorted Unique Integers Processor
 
 ---
