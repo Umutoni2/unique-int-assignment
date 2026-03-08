@@ -44,7 +44,7 @@ All outputs are saved in `hw01/sample_output/`.
 
 **Name:** Umutoni Rutaganira Sylvie
 
-**email:** s.umutonir@alustudent
+**email:** s.umutonir@alustudent.com
 
 **Role:** Student / Developer
 
