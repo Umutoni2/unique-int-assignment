@@ -40,5 +40,3 @@ All outputs are saved in `hw01/sample_output/`.
 
 ---
 
-
-If you want, I can make an **even 1-paragraph ultra-short version** for a single-page submission. Do you want me to do that?
